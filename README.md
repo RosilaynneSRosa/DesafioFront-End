@@ -9,10 +9,10 @@ Faça a instalação do React Slick para o Slider:
 $ npm install react-slick --save
 
 ## Para rodar:
-### Primeiro: Faça o clone deste repositório
+### Primeiro: Faça o clone deste repositório, abrindo o promt de comando/terminal e colando o que está logo abaixo (git clone...):
 $ git clone <https://github.com/RosilaynneSRosaDesafioFront-End.git>
 
-### Segundo: Acesse a pasta do protótipo no prompt de comando
+### Segundo: Acesse a pasta do protótipo no prompt de comando/terminal
 $ cd TENTATIVA
 
 ### Terceiro: Deve-se instalar as dependências
