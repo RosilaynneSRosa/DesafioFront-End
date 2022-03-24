@@ -1,6 +1,6 @@
 # Desafio Front-End
 
-## Necessários:
+## Primordiais:
 
 Faça a instalação do axios para realizar requisições à API:
 $ npm install axios
